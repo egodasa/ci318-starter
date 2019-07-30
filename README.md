@@ -10,3 +10,4 @@
 1. Please look at application/core/MY_Controller.php for more detail about eloquent and blade
 2. You can find example of Rest API controller on controller/api/Dosen.php
 3. Look at "frontend" folder (at root) for VueJS files. All build files are on dist folder and copy paste it into assets folder (at root)
+4. jibran gifahri
